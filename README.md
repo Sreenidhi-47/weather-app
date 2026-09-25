@@ -23,3 +23,5 @@ A simple and user-friendly web application that displays current weather informa
 Sreenidhi Madithati
 
 GitHub: https://github.com/Sreenidhi-47
+
+## Live Demo : https://sreenidhi-47.github.io/weather-app/
