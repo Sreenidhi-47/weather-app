@@ -1,7 +1,6 @@
-# 🌤️ Weather Buddy
+# 🌤️ Weather App
 
-Weather Buddy is a beginner-friendly web application that shows current weather details
-and provides friendly suggestions based on temperature.
+A simple and user-friendly web application that displays current weather information for different cities.
 
 ## Features
 - Search weather by city
@@ -20,6 +19,7 @@ and provides friendly suggestions based on temperature.
 2. Open index.html in a browser
 3. Enter a city name and search
 
- **Live Demo:** https://namratha525.github.io/weather/
+ ## Author
+Sreenidhi Madithati
 
-
+GitHub: https://github.com/Sreenidhi-47
